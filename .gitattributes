@@ -32,6 +32,13 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Oxygene source file
+*.oxygene linguist-detectable=true
+*.oxygene linguist-documentation=false
+*.oxygene linguist-language=Oxygene
+*.pas linguist-detectable=true
+*.pas linguist-documentation=false
+*.pas linguist-language=Oxygene
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +168,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2023, Saturday, January 21st at 1:31 pm PST)
+# Line count (including blank lines and compiler line): 181
+
 # End of script
